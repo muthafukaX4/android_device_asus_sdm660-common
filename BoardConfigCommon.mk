@@ -35,6 +35,9 @@ BOARD_USES_ALSA_AUDIO := true
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
 
+# Binder
+TARGET_USES_64_BIT_BINDER := true
+
 # Bootloader
 TARGET_NO_BOOTLOADER := true
 
