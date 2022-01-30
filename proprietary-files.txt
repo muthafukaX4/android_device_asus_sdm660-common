@@ -332,9 +332,9 @@ vendor/lib64/libhdr_tm.so|a1b9bbad12217e6b79951774801aa54be6460fd6
 -vendor/lib/libsdm-disp-vndapis.so|efe67908e419b8db34068896c9b45cdf9b4e535b
 -vendor/lib64/libsdm-disp-vndapis.so|8e92d1f17735c26658c17148da6e1882b5bc6fb0
 vendor/lib/libqseed3.so|1a67e4c3e7d904dc3d3af35c0f516fe13ed88bcb
-vendor/lib/libsdm-color.so|0ac3aa59aa06eed8b66bc72d8cd74ea1b2eb34fb
+vendor/lib/libsdm-color.so|9c80ac4e059bff1c53814e9f5f71a5fbe38bce40
 vendor/lib/libsdm-diag.so|a2b532158e12562e1fb74695bf829de1b94c2cde
-vendor/lib/libsdmextension.so|cb5d63a477317806cf1a95cfd5393fe83dd86f94
+vendor/lib/libsdmextension.so|913503f002aa2afbeca90d429bac4bff4a2266e0
 vendor/lib/libtinyxml2_1.so|aec76b36890b163f9cf1be594d6b082887f0a9b2
 vendor/lib64/libqseed3.so|a858c83fb38ef7acd21ea0a23f36ef22ba8c06ef
 vendor/lib64/libsdm-color.so|d9bec7004ec8fd292bb0cd3388359448ca96bd23
