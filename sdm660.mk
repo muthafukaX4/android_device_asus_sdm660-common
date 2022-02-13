@@ -70,7 +70,8 @@ PRODUCT_PACKAGES += \
 
 # ATRACE_HAL
 PRODUCT_PACKAGES += \
-    android.hardware.atrace@1.0-service
+    android.hardware.atrace@1.0-service \
+    android.hardware.atrace@1.0.vendor
 
 # Bluetooth
 PRODUCT_PACKAGES += \
@@ -328,6 +329,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.perf@2.2.vendor \
     android.hardware.power.stats@1.0-service.mock \
+    android.hardware.power.stats@1.0.vendor \
     android.hardware.power-service.asus_sdm660-libperfmgr
 
 # Powerhint
