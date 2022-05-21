@@ -57,6 +57,9 @@ persist.backup.ntpServer="0.pool.ntp.org"
 ro.vendor.qti.sys.fw.bg_apps_limit=32
 vendor.perf.gestureflingboost.enable=true
 
+# Phantom process monitoring
+sys.fflag.override.settings_enable_monitor_phantom_procs=false
+
 # QC framework value-adds
 ro.vendor.qti.va_aosp.support=1
 
