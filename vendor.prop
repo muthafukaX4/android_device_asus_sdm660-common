@@ -167,7 +167,6 @@ pm.sleep_mode=1
 
 # Radio
 persist.radio.multisim.config=dsds
-persist.sys.fflag.override.settings_provider_model=false
 persist.vendor.qti.telephony.vt_cam_interface=2
 persist.vendor.radio.aosp_usr_pref_sel=true
 persist.vendor.radio.add_power_save=1
