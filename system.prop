@@ -31,7 +31,6 @@ vendor.display.disable_skip_validate=1
 persist.vendor.overlay.izat.optin=rro
 
 # Graphics
-dev.pm.dyn_samplingrate=1
 persist.demo.hdmirotationlock=false
 sdm.debug.disable_skip_validate=1
 
@@ -51,10 +50,6 @@ ro.nfc.port=I2C
 
 # NTP Server
 persist.backup.ntpServer="0.pool.ntp.org"
-
-# Perf
-ro.vendor.qti.sys.fw.bg_apps_limit=32
-vendor.perf.gestureflingboost.enable=true
 
 # Phantom process monitoring
 sys.fflag.override.settings_enable_monitor_phantom_procs=false
