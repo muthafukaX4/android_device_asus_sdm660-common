@@ -52,11 +52,13 @@ ro.hwui.text_large_cache_width=2048
 ro.hwui.text_large_cache_height=1024
 ro.hwui.disable_scissor_opt=true
 
+# Maintainer
+ro.afterlife.maintainer=Romeo_Delta_Whiskey
+
 # Media
 media.settings.xml=/vendor/etc/media_profiles_vendor.xml
 media.stagefright.thumbnail.prefer_hw_codecs=true
 vidc.enc.target_support_bframe=1
-vendor.vidc.enc.disable_bframes=1
 vendor.vidc.dec.enable.downscalar=1
 vendor.vidc.enc.disable.pq=true
 
